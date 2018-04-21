@@ -1,5 +1,6 @@
 <h1 align=center> One-UI </h1>
-
+原作者：
+https://github.com/a294465800/One-UI
 ## 使用
 1. 复制`One-UI`文件夹
 2. 按需引入，只需引入对应`wxss` `template` `js`即可，如引入 Search 组件
